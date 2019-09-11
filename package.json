@@ -1,0 +1,25 @@
+{
+  "name": "climaapp",
+  "version": "1.0.0",
+  "description": "Aplicación para el uso de peticiones http, mediante paquetes como request o axios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvalerab/node-climaapp.git"
+  },
+  "keywords": [
+    "Clima",
+    "http",
+    "request",
+    "axios"
+  ],
+  "author": "Luis Fernando Valera Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvalerab/node-climaapp/issues"
+  },
+  "homepage": "https://github.com/lvalerab/node-climaapp#readme"
+}
